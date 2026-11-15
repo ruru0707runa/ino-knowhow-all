@@ -1,0 +1,5 @@
+interface:
+  display_name: "バナー制作代行くん"
+  short_description: "お手本の形で、白紙から文字まで直せるCanvaバナーを作る"
+  brand_color: "#BC0000"
+  default_prompt: "Use $banner-seisaku-daikou-kun to build a banner in Canva from a blank design, following the layout of the reference banner."
